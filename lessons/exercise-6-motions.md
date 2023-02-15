@@ -110,36 +110,6 @@ Try pressing `<C-d>`
 
 .
 
-
-##### Benefits?  Class chat
-
-#### [m / ]m and [M / ]M
-This will move by "function".  It works pretty well in c languages.
-
-Move your cusor to this line and press `]m`.  Try moving back and forth and try
-the uppercase version as well.
-
-if (foo) {
-    some content
-    some content
-    some content
-    some content
-    function bar() {
-        some other content
-        some other content
-        some other content
-        some other content
-    }
-    function baz() {
-        other content
-        other content
-        other content
-        other content
-    }
-}
-
-##### Benefits?
-
 #### %
 Ok,.... soo this isn't a pure vertical motion.  It actually is a pair jumper
 

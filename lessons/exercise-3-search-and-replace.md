@@ -59,6 +59,3 @@ function foo() {
 Lets execute `:%s/foo/bar/gc`, but first exit without saving `:q!` and reopen
 this file
 
-#### But what about full project find and replace
-I am going to leave this out of this course.  
-
